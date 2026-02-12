@@ -49,11 +49,12 @@ http://localhost/Resale-Retreate
 
 ## 📸 Screenshots
 
-![Homepage](screenshots/homepage.png)
-![Shop Page](screenshots/shop.png)
-![Product Details](screenshots/product.png)
-![Cart](screenshots/cart.png)
-![Checkout](screenshots/checkout.png)
-![Upload Product](screenshots/upload.png)
-![Login/Register](screenshots/login.png)
-![About Us / Contact](screenshots/about-contact.png)
+![Homepage 1](screenshots/homepage1.png)  
+![Homepage 2](screenshots/homepage2.png)  
+![Shop Page](screenshots/shop.png)  
+![Product Upload](screenshots/upload.png)  
+![Cart](screenshots/cart.png)  
+![Login/Register](screenshots/login.png)  
+![Payment / Checkout](screenshots/payment.png)  
+![About Us Page](screenshots/aboutus.png)  
+![Contact Us Page](screenshots/contactus.png)
